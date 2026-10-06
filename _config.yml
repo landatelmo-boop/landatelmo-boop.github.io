@@ -1,0 +1,5 @@
+tittle: Niri Buruz!
+theme: minima
+header _pages:
+  - index.md
+  - gustuko-dudana.md
